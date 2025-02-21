@@ -1,0 +1,228 @@
+2025-02-21 14:01:45,276 - __main__ - INFO - Bot started
+2025-02-21 14:02:43,741 - __main__ - ERROR - Error processing image: 'JPG'
+2025-02-21 14:06:16,340 - __main__ - INFO - Bot started
+2025-02-21 14:07:25,737 - __main__ - INFO - Original size: 195.77KB
+2025-02-21 14:07:25,792 - __main__ - ERROR - Error processing image: 'JPG'
+2025-02-21 14:08:20,612 - __main__ - INFO - Original size: 195.77KB
+2025-02-21 14:08:20,612 - __main__ - ERROR - Error processing image: 'JPG'
+2025-02-21 14:09:58,633 - __main__ - INFO - Bot started
+2025-02-21 14:10:29,534 - __main__ - INFO - Processing image: Original size: 195.77KB
+2025-02-21 14:10:29,534 - __main__ - INFO - Original dimensions: 960x1280
+2025-02-21 14:10:29,558 - __main__ - INFO - Tried quality 95: 314.22KB
+2025-02-21 14:10:29,579 - __main__ - INFO - Tried quality 90: 234.96KB
+2025-02-21 14:10:29,600 - __main__ - INFO - Tried quality 85: 207.84KB
+2025-02-21 14:10:29,621 - __main__ - INFO - Tried quality 80: 176.31KB
+2025-02-21 14:10:29,641 - __main__ - INFO - Tried quality 75: 167.73KB
+2025-02-21 14:10:29,654 - __main__ - INFO - Tried quality 70: 150.68KB
+2025-02-21 14:10:29,670 - __main__ - INFO - Tried quality 65: 144.29KB
+2025-02-21 14:10:29,702 - __main__ - INFO - Tried quality 60: 140.61KB
+2025-02-21 14:10:29,721 - __main__ - INFO - Tried quality 55: 136.88KB
+2025-02-21 14:10:29,737 - __main__ - INFO - Tried quality 50: 124.49KB
+2025-02-21 14:10:29,753 - __main__ - INFO - Tried quality 45: 96.83KB
+2025-02-21 14:10:29,775 - __main__ - INFO - Tried quality 40: 85.98KB
+2025-02-21 14:10:29,791 - __main__ - INFO - Tried quality 35: 83.63KB
+2025-02-21 14:10:29,808 - __main__ - INFO - Tried quality 30: 69.22KB
+2025-02-21 14:10:29,826 - __main__ - INFO - Tried quality 25: 59.31KB
+2025-02-21 14:10:29,840 - __main__ - INFO - Tried quality 20: 51.45KB
+2025-02-21 14:10:29,858 - __main__ - INFO - Tried quality 15: 42.34KB
+2025-02-21 14:10:29,875 - __main__ - INFO - Tried quality 10: 32.47KB
+2025-02-21 14:10:29,887 - __main__ - INFO - Tried quality 5: 25.31KB
+2025-02-21 14:10:29,887 - __main__ - INFO - Failed to meet size constraints after all attempts
+2025-02-21 14:13:39,599 - __main__ - INFO - Bot started
+2025-02-21 14:13:53,759 - __main__ - INFO - Processing image: Original size: 195.77KB
+2025-02-21 14:13:53,759 - __main__ - INFO - Target size range: 10.00MB - 15.00MB
+2025-02-21 14:13:53,815 - __main__ - INFO - Enlarged to 1056x1408: 438.42KB
+2025-02-21 14:13:53,869 - __main__ - INFO - Enlarged to 1161x1548: 504.36KB
+2025-02-21 14:13:53,950 - __main__ - INFO - Enlarged to 1277x1703: 577.14KB
+2025-02-21 14:13:54,035 - __main__ - INFO - Enlarged to 1405x1874: 662.88KB
+2025-02-21 14:13:54,135 - __main__ - INFO - Enlarged to 1546x2061: 758.77KB
+2025-02-21 14:13:54,262 - __main__ - INFO - Enlarged to 1700x2267: 869.32KB
+2025-02-21 14:13:54,401 - __main__ - INFO - Enlarged to 1870x2494: 992.73KB
+2025-02-21 14:13:54,420 - __main__ - INFO - Tried size 960x1280 quality 95: 314.22KB
+2025-02-21 14:13:54,453 - __main__ - INFO - Tried size 864x1152 quality 95: 321.41KB
+2025-02-21 14:13:54,502 - __main__ - INFO - Tried size 777x1036 quality 95: 272.14KB
+2025-02-21 14:13:54,527 - __main__ - INFO - Tried size 699x932 quality 95: 228.83KB
+2025-02-21 14:13:54,559 - __main__ - INFO - Tried size 629x838 quality 95: 190.98KB
+2025-02-21 14:13:54,586 - __main__ - INFO - Tried size 566x754 quality 95: 159.44KB
+2025-02-21 14:13:54,607 - __main__ - INFO - Tried size 509x678 quality 95: 132.21KB
+2025-02-21 14:13:54,619 - __main__ - INFO - Tried size 458x610 quality 95: 109.82KB
+2025-02-21 14:13:54,643 - __main__ - INFO - Tried size 412x549 quality 95: 89.57KB
+2025-02-21 14:13:54,660 - __main__ - INFO - Tried size 370x494 quality 95: 73.71KB
+2025-02-21 14:13:54,674 - __main__ - INFO - Tried size 333x444 quality 95: 59.95KB
+2025-02-21 14:13:54,687 - __main__ - INFO - Tried size 299x399 quality 95: 48.74KB
+2025-02-21 14:13:54,702 - __main__ - INFO - Tried size 269x359 quality 95: 40.71KB
+2025-02-21 14:13:54,703 - __main__ - INFO - Tried size 242x323 quality 95: 34.89KB
+2025-02-21 14:13:54,721 - __main__ - INFO - Tried size 217x290 quality 95: 28.96KB
+2025-02-21 14:13:54,736 - __main__ - INFO - Tried size 195x261 quality 95: 24.26KB
+2025-02-21 14:13:54,737 - __main__ - INFO - Tried size 175x234 quality 95: 20.11KB
+2025-02-21 14:13:54,755 - __main__ - INFO - Tried size 157x210 quality 95: 17.09KB
+2025-02-21 14:13:54,755 - __main__ - INFO - Tried size 141x189 quality 95: 14.36KB
+2025-02-21 14:13:54,772 - __main__ - INFO - Tried size 126x170 quality 95: 11.86KB
+2025-02-21 14:13:54,782 - __main__ - INFO - Tried size 113x153 quality 95: 10.29KB
+2025-02-21 14:13:54,786 - __main__ - INFO - Tried size 101x137 quality 95: 8.49KB
+2025-02-21 14:13:54,786 - __main__ - INFO - Failed to meet size constraints after all attempts
+2025-02-21 14:14:18,647 - __main__ - INFO - Processing image: Original size: 195.77KB
+2025-02-21 14:14:18,647 - __main__ - INFO - Target size range: 1.00MB - 5.00MB
+2025-02-21 14:14:18,704 - __main__ - INFO - Enlarged to 1056x1408: 438.42KB
+2025-02-21 14:14:18,768 - __main__ - INFO - Enlarged to 1161x1548: 504.36KB
+2025-02-21 14:14:18,850 - __main__ - INFO - Enlarged to 1277x1703: 577.14KB
+2025-02-21 14:14:18,936 - __main__ - INFO - Enlarged to 1405x1874: 662.88KB
+2025-02-21 14:14:19,036 - __main__ - INFO - Enlarged to 1546x2061: 758.77KB
+2025-02-21 14:14:19,151 - __main__ - INFO - Enlarged to 1700x2267: 869.32KB
+2025-02-21 14:14:19,287 - __main__ - INFO - Enlarged to 1870x2494: 992.73KB
+2025-02-21 14:14:19,324 - __main__ - INFO - Tried size 960x1280 quality 95: 314.22KB
+2025-02-21 14:14:19,359 - __main__ - INFO - Tried size 864x1152 quality 95: 321.41KB
+2025-02-21 14:14:19,402 - __main__ - INFO - Tried size 777x1036 quality 95: 272.14KB
+2025-02-21 14:14:19,434 - __main__ - INFO - Tried size 699x932 quality 95: 228.83KB
+2025-02-21 14:14:19,459 - __main__ - INFO - Tried size 629x838 quality 95: 190.98KB
+2025-02-21 14:14:19,488 - __main__ - INFO - Tried size 566x754 quality 95: 159.44KB
+2025-02-21 14:14:19,509 - __main__ - INFO - Tried size 509x678 quality 95: 132.21KB
+2025-02-21 14:14:19,525 - __main__ - INFO - Tried size 458x610 quality 95: 109.82KB
+2025-02-21 14:14:19,537 - __main__ - INFO - Tried size 412x549 quality 95: 89.57KB
+2025-02-21 14:14:19,556 - __main__ - INFO - Tried size 370x494 quality 95: 73.71KB
+2025-02-21 14:14:19,571 - __main__ - INFO - Tried size 333x444 quality 95: 59.95KB
+2025-02-21 14:14:19,589 - __main__ - INFO - Tried size 299x399 quality 95: 48.74KB
+2025-02-21 14:14:19,604 - __main__ - INFO - Tried size 269x359 quality 95: 40.71KB
+2025-02-21 14:14:19,616 - __main__ - INFO - Tried size 242x323 quality 95: 34.89KB
+2025-02-21 14:14:19,623 - __main__ - INFO - Tried size 217x290 quality 95: 28.96KB
+2025-02-21 14:14:19,638 - __main__ - INFO - Tried size 195x261 quality 95: 24.26KB
+2025-02-21 14:14:19,640 - __main__ - INFO - Tried size 175x234 quality 95: 20.11KB
+2025-02-21 14:14:19,656 - __main__ - INFO - Tried size 157x210 quality 95: 17.09KB
+2025-02-21 14:14:19,664 - __main__ - INFO - Tried size 141x189 quality 95: 14.36KB
+2025-02-21 14:14:19,673 - __main__ - INFO - Tried size 126x170 quality 95: 11.86KB
+2025-02-21 14:14:19,685 - __main__ - INFO - Tried size 113x153 quality 95: 10.29KB
+2025-02-21 14:14:19,688 - __main__ - INFO - Tried size 101x137 quality 95: 8.49KB
+2025-02-21 14:14:19,688 - __main__ - INFO - Failed to meet size constraints after all attempts
+2025-02-21 14:15:14,412 - __main__ - INFO - Processing image: Original size: 195.77KB
+2025-02-21 14:15:14,412 - __main__ - INFO - Target size range: 100.00KB - 150.00KB
+2025-02-21 14:15:14,436 - __main__ - INFO - Tried size 960x1280 quality 95: 314.22KB
+2025-02-21 14:15:14,459 - __main__ - INFO - Tried size 960x1280 quality 90: 234.96KB
+2025-02-21 14:15:14,470 - __main__ - INFO - Tried size 960x1280 quality 85: 207.84KB
+2025-02-21 14:15:14,502 - __main__ - INFO - Tried size 960x1280 quality 80: 176.31KB
+2025-02-21 14:15:14,526 - __main__ - INFO - Tried size 960x1280 quality 75: 167.73KB
+2025-02-21 14:15:14,544 - __main__ - INFO - Tried size 960x1280 quality 70: 150.68KB
+2025-02-21 14:15:14,554 - __main__ - INFO - Tried size 960x1280 quality 65: 144.29KB
+2025-02-21 14:16:11,540 - __main__ - INFO - Processing image: Original size: 195.77KB
+2025-02-21 14:16:11,540 - __main__ - INFO - Target size range: 10.00KB - 15.00KB
+2025-02-21 14:16:11,569 - __main__ - INFO - Tried size 960x1280 quality 95: 314.22KB
+2025-02-21 14:16:11,593 - __main__ - INFO - Tried size 960x1280 quality 90: 234.96KB
+2025-02-21 14:16:11,607 - __main__ - INFO - Tried size 960x1280 quality 85: 207.84KB
+2025-02-21 14:16:11,638 - __main__ - INFO - Tried size 960x1280 quality 80: 176.31KB
+2025-02-21 14:16:11,659 - __main__ - INFO - Tried size 960x1280 quality 75: 167.73KB
+2025-02-21 14:16:11,677 - __main__ - INFO - Tried size 960x1280 quality 70: 150.68KB
+2025-02-21 14:16:11,689 - __main__ - INFO - Tried size 960x1280 quality 65: 144.29KB
+2025-02-21 14:16:11,724 - __main__ - INFO - Tried size 960x1280 quality 60: 140.61KB
+2025-02-21 14:16:11,744 - __main__ - INFO - Tried size 960x1280 quality 55: 136.88KB
+2025-02-21 14:16:11,753 - __main__ - INFO - Tried size 960x1280 quality 50: 124.49KB
+2025-02-21 14:16:11,773 - __main__ - INFO - Tried size 960x1280 quality 45: 96.83KB
+2025-02-21 14:16:11,804 - __main__ - INFO - Tried size 960x1280 quality 40: 85.98KB
+2025-02-21 14:16:11,825 - __main__ - INFO - Tried size 960x1280 quality 35: 83.63KB
+2025-02-21 14:16:11,843 - __main__ - INFO - Tried size 960x1280 quality 30: 69.22KB
+2025-02-21 14:16:11,858 - __main__ - INFO - Tried size 960x1280 quality 25: 59.31KB
+2025-02-21 14:16:11,871 - __main__ - INFO - Tried size 960x1280 quality 20: 51.45KB
+2025-02-21 14:16:11,891 - __main__ - INFO - Tried size 960x1280 quality 15: 42.34KB
+2025-02-21 14:16:11,903 - __main__ - INFO - Tried size 960x1280 quality 10: 32.47KB
+2025-02-21 14:16:11,929 - __main__ - INFO - Tried size 960x1280 quality 5: 25.31KB
+2025-02-21 14:16:11,969 - __main__ - INFO - Tried size 864x1152 quality 95: 321.41KB
+2025-02-21 14:16:12,002 - __main__ - INFO - Tried size 864x1152 quality 90: 222.21KB
+2025-02-21 14:16:12,041 - __main__ - INFO - Tried size 864x1152 quality 85: 177.49KB
+2025-02-21 14:16:12,074 - __main__ - INFO - Tried size 864x1152 quality 80: 150.83KB
+2025-02-21 14:16:12,119 - __main__ - INFO - Tried size 864x1152 quality 75: 131.92KB
+2025-02-21 14:16:12,153 - __main__ - INFO - Tried size 864x1152 quality 70: 119.63KB
+2025-02-21 14:16:12,190 - __main__ - INFO - Tried size 864x1152 quality 65: 108.49KB
+2025-02-21 14:16:12,223 - __main__ - INFO - Tried size 864x1152 quality 60: 99.30KB
+2025-02-21 14:16:12,257 - __main__ - INFO - Tried size 864x1152 quality 55: 91.42KB
+2025-02-21 14:16:12,286 - __main__ - INFO - Tried size 864x1152 quality 50: 85.14KB
+2025-02-21 14:16:12,326 - __main__ - INFO - Tried size 864x1152 quality 45: 78.81KB
+2025-02-21 14:16:12,357 - __main__ - INFO - Tried size 864x1152 quality 40: 71.77KB
+2025-02-21 14:16:12,390 - __main__ - INFO - Tried size 864x1152 quality 35: 65.37KB
+2025-02-21 14:16:12,426 - __main__ - INFO - Tried size 864x1152 quality 30: 57.51KB
+2025-02-21 14:16:12,453 - __main__ - INFO - Tried size 864x1152 quality 25: 49.69KB
+2025-02-21 14:16:12,492 - __main__ - INFO - Tried size 864x1152 quality 20: 41.60KB
+2025-02-21 14:16:12,519 - __main__ - INFO - Tried size 864x1152 quality 15: 34.00KB
+2025-02-21 14:16:12,560 - __main__ - INFO - Tried size 864x1152 quality 10: 26.98KB
+2025-02-21 14:16:12,595 - __main__ - INFO - Tried size 864x1152 quality 5: 20.94KB
+2025-02-21 14:16:12,635 - __main__ - INFO - Tried size 777x1036 quality 95: 272.14KB
+2025-02-21 14:16:12,669 - __main__ - INFO - Tried size 777x1036 quality 90: 188.13KB
+2025-02-21 14:16:12,702 - __main__ - INFO - Tried size 777x1036 quality 85: 149.61KB
+2025-02-21 14:16:12,735 - __main__ - INFO - Tried size 777x1036 quality 80: 126.62KB
+2025-02-21 14:16:12,763 - __main__ - INFO - Tried size 777x1036 quality 75: 110.21KB
+2025-02-21 14:16:12,792 - __main__ - INFO - Tried size 777x1036 quality 70: 99.61KB
+2025-02-21 14:16:12,824 - __main__ - INFO - Tried size 777x1036 quality 65: 90.10KB
+2025-02-21 14:16:12,859 - __main__ - INFO - Tried size 777x1036 quality 60: 82.17KB
+2025-02-21 14:16:12,887 - __main__ - INFO - Tried size 777x1036 quality 55: 75.55KB
+2025-02-21 14:16:12,919 - __main__ - INFO - Tried size 777x1036 quality 50: 70.26KB
+2025-02-21 14:16:12,943 - __main__ - INFO - Tried size 777x1036 quality 45: 64.89KB
+2025-02-21 14:16:12,977 - __main__ - INFO - Tried size 777x1036 quality 40: 59.05KB
+2025-02-21 14:16:13,004 - __main__ - INFO - Tried size 777x1036 quality 35: 53.89KB
+2025-02-21 14:16:13,040 - __main__ - INFO - Tried size 777x1036 quality 30: 47.59KB
+2025-02-21 14:16:13,069 - __main__ - INFO - Tried size 777x1036 quality 25: 41.33KB
+2025-02-21 14:16:13,092 - __main__ - INFO - Tried size 777x1036 quality 20: 34.80KB
+2025-02-21 14:16:13,126 - __main__ - INFO - Tried size 777x1036 quality 15: 28.48KB
+2025-02-21 14:16:13,153 - __main__ - INFO - Tried size 777x1036 quality 10: 22.96KB
+2025-02-21 14:16:13,188 - __main__ - INFO - Tried size 777x1036 quality 5: 17.65KB
+2025-02-21 14:16:13,219 - __main__ - INFO - Tried size 699x932 quality 95: 228.83KB
+2025-02-21 14:16:13,243 - __main__ - INFO - Tried size 699x932 quality 90: 157.60KB
+2025-02-21 14:16:13,274 - __main__ - INFO - Tried size 699x932 quality 85: 124.50KB
+2025-02-21 14:16:13,304 - __main__ - INFO - Tried size 699x932 quality 80: 104.77KB
+2025-02-21 14:16:13,336 - __main__ - INFO - Tried size 699x932 quality 75: 90.84KB
+2025-02-21 14:16:13,359 - __main__ - INFO - Tried size 699x932 quality 70: 81.62KB
+2025-02-21 14:16:13,391 - __main__ - INFO - Tried size 699x932 quality 65: 73.45KB
+2025-02-21 14:16:13,420 - __main__ - INFO - Tried size 699x932 quality 60: 66.82KB
+2025-02-21 14:16:13,444 - __main__ - INFO - Tried size 699x932 quality 55: 61.18KB
+2025-02-21 14:16:13,476 - __main__ - INFO - Tried size 699x932 quality 50: 56.74KB
+2025-02-21 14:16:13,503 - __main__ - INFO - Tried size 699x932 quality 45: 52.46KB
+2025-02-21 14:16:13,527 - __main__ - INFO - Tried size 699x932 quality 40: 47.76KB
+2025-02-21 14:16:13,553 - __main__ - INFO - Tried size 699x932 quality 35: 43.67KB
+2025-02-21 14:16:13,577 - __main__ - INFO - Tried size 699x932 quality 30: 38.90KB
+2025-02-21 14:16:13,609 - __main__ - INFO - Tried size 699x932 quality 25: 34.05KB
+2025-02-21 14:16:13,636 - __main__ - INFO - Tried size 699x932 quality 20: 28.83KB
+2025-02-21 14:16:13,659 - __main__ - INFO - Tried size 699x932 quality 15: 23.93KB
+2025-02-21 14:16:13,688 - __main__ - INFO - Tried size 699x932 quality 10: 19.38KB
+2025-02-21 14:16:13,713 - __main__ - INFO - Tried size 699x932 quality 5: 14.75KB
+2025-02-21 14:16:34,190 - TeleBot - ERROR - Infinity polling: polling exited
+2025-02-21 14:16:34,190 - TeleBot - ERROR - Break infinity polling
+2025-02-21 14:19:43,413 - __main__ - INFO - Bot started
+2025-02-21 14:22:15,137 - TeleBot - ERROR - Infinity polling: polling exited
+2025-02-21 14:22:15,147 - TeleBot - ERROR - Break infinity polling
+2025-02-21 14:22:19,387 - __main__ - INFO - Bot started
+2025-02-21 14:22:41,321 - __main__ - INFO - Original size: 195.77KB
+2025-02-21 14:22:41,321 - __main__ - INFO - Attempting to increase image size
+2025-02-21 14:22:41,343 - __main__ - INFO - Trying to increase size using scaling
+2025-02-21 14:22:55,489 - __main__ - INFO - Trying to increase size using quality
+2025-02-21 14:22:55,622 - __main__ - INFO - Trying to increase size using padding
+2025-02-21 14:22:55,954 - __main__ - INFO - Trying to increase size using duplicate_layers
+2025-02-21 14:22:57,837 - __main__ - INFO - Failed to meet size constraints
+2025-02-21 14:23:28,190 - __main__ - INFO - Original size: 195.77KB
+2025-02-21 14:23:28,190 - __main__ - INFO - Attempting to increase image size
+2025-02-21 14:23:28,204 - __main__ - INFO - Trying to increase size using scaling
+2025-02-21 14:23:30,604 - __main__ - INFO - Failed to meet size constraints
+2025-02-21 14:23:52,455 - __main__ - INFO - Original size: 195.77KB
+2025-02-21 14:23:53,255 - __main__ - INFO - Successfully resized to 14.75KB
+2025-02-21 14:25:31,125 - TeleBot - ERROR - Infinity polling: polling exited
+2025-02-21 14:25:31,125 - TeleBot - ERROR - Break infinity polling
+2025-02-21 14:30:56,025 - __main__ - INFO - Original size: 195.77KB
+2025-02-21 14:30:56,025 - __main__ - INFO - Attempting to increase image size...
+2025-02-21 14:30:58,564 - __main__ - WARNING - Failed to resize within limits.
+2025-02-21 14:31:11,662 - __main__ - INFO - Original size: 195.77KB
+2025-02-21 14:31:12,704 - __main__ - INFO - Successfully resized to 13.95KB
+2025-02-21 14:39:06,853 - __main__ - INFO - Bot started
+2025-02-21 14:39:53,347 - __main__ - INFO - Original size: 195.77KB
+2025-02-21 14:39:53,363 - __main__ - INFO - Attempting to increase image size
+2025-02-21 14:39:53,363 - __main__ - INFO - Trying to increase size using metadata
+2025-02-21 14:39:53,594 - __main__ - INFO - Trying to increase size using scaling
+2025-02-21 14:39:59,544 - __main__ - INFO - Trying to increase size using padding
+2025-02-21 14:39:59,784 - __main__ - INFO - Trying to increase size using quality
+2025-02-21 14:39:59,907 - __main__ - INFO - Trying to increase size using duplicate
+2025-02-21 14:40:02,035 - __main__ - INFO - Failed to meet size constraints
+2025-02-21 14:40:49,526 - __main__ - INFO - Original size: 83.14KB
+2025-02-21 14:40:49,526 - __main__ - INFO - Attempting to increase image size
+2025-02-21 14:40:49,526 - __main__ - INFO - Trying to increase size using metadata
+2025-02-21 14:40:49,678 - __main__ - INFO - Trying to increase size using scaling
+2025-02-21 14:40:53,312 - __main__ - INFO - Failed to meet size constraints
+2025-02-21 14:41:19,892 - __main__ - INFO - Original size: 195.77KB
+2025-02-21 14:41:20,011 - __main__ - INFO - Successfully resized to 131.92KB
+2025-02-21 14:42:41,765 - __main__ - INFO - Original size: 153.76KB
+2025-02-21 14:43:01,122 - __main__ - INFO - Successfully resized to 124.54KB
+2025-02-21 14:46:46,077 - TeleBot - ERROR - Infinity polling: polling exited
+2025-02-21 14:46:46,077 - TeleBot - ERROR - Break infinity polling
